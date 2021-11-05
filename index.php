@@ -1,20 +1,18 @@
 <!DOCTYPE HTML>
 <head>
-<title> Adil clown </title>
+<title> My profile </title>
 </head>
 <body>
  <style>
 body {
-  background-image: url('https://img2.akspic.ru/originals/4/7/7/4/6/164774-tandzhiro_kamado-ubijca_demonov_kimetsu_no_yaiba-anime-purpur-art-1920x1080.jpg');
+  background-image: url('https://kartinkin.net/uploads/posts/2021-07/1626700951_6-kartinkin-com-p-anime-oboi-tyomnie-vertikalnie-anime-krasi-6.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 </style>
-<style>
-<color=white> 
-<p>Adil adil adil adil</p>
-</style>
+<h1>Profile</h1>
+<p>Temirlan</p>
+<a href="vk.com/lunat1kgod" style="color:white">My VK profile</a>
 </body>
 </html>
-
