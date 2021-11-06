@@ -17,7 +17,7 @@
 @import 'https://fonts.googleapis.com/css?family=Press+Start+2P';*{font-family:'press start 2p',Roboto,sans-serif}
 @-webkit-keyframes fadeIn{from{opacity:0}to{opacity:1}}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
-body{ background-image: url('https://hdwallpaper.wiki/d/32994/ATTI66.jpg');
+body{ background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
