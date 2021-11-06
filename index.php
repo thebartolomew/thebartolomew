@@ -10,11 +10,6 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="msapplication-TileColor" content="#292b2c">
 </head>
-<style>
-@import 'https://fonts.googleapis.com/css?family=Press+Start+2P';*{font-family:'press start 2p',Roboto,sans-serif}@-webkit-keyframes fadeIn{from{opacity:0}to{opacity:1}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}body{background:url(background.jpg) center center/cover no-repeat;margin:0;width:100%;height:100%}a{color white ;border-bottom:1px solid white}.center{height:90%;width:100%;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;text-align:center}.g-o{background:rgba(0,0,0,.3);width:100%;height:100%}.console-emulating{position:fixed;left:20px;bottom:25px;font-size:13px;color white}.white{color: white}.welcome-text{font-size:1.75rem}.near-text{font-size:1rem}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}  
-  
-
-</style>
 <body class="fadeIn">
 <div class="g-o">
 <div class="center">
