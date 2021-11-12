@@ -44,7 +44,7 @@ body{ background-image: url('background.jpg');
 .welcome-text{font-size:1.75rem}
 .near-text{font-size:1rem}
 h1{
-font-size:15px;
+font-size:20px;
 }
 .fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}  
 }
@@ -53,13 +53,13 @@ font-size:15px;
 <div class="g-o">
 <div class="center">
 <div class="white">
-<p class="welcome-text">Lunatik</p>
-<p class="near-text">// l u n a t //</p>
+<p class="welcome-text">Hello my name is Temirlan</p>
+<p class="near-text">I'm 17 years old</p>
 </div>
 </div>
 </div>
 <div class="console-emulating" style="color:white">
-<h1>My social media</h1>
+<h1>My social media:</h1>
 <a href="https://vk.com/lunat1kgod" target="_blank" style="color:white">VK</a> |
 <a href="https://steamcommunity.com/id/lunat1kcs/" target="_blank" style="color:white">Steam</a> |
 <a href="https://www.faceit.com/ru/players/lunatikk_" target="_blank" style="color:white">Fc</a> |
