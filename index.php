@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Lunatik</title>
-<link rel="icon" href="https://freepngimg.com/download/anime/10-2-anime-png-images.png">
+<link rel="icon" href="https://www.pikpng.com/pngl/m/459-4594996_anime-clipart-transparent-background-sticker-de-png-de.png">
 <meta name="theme-color" content="#292b2c">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
