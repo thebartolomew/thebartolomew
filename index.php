@@ -49,13 +49,13 @@ font-size:20px;
 .fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}  
 }
 </style>
+<img src="https://i.pinimg.com/736x/1d/77/53/1d77535c2443d034a1380fdc8eb76ca4.png"
 <body class="fadeIn">
 <div class="g-o">
 <div class="center">
 <div class="white">
 <p class="welcome-text">Hello my name is Temirlan</p>
 <p class="near-text">I'm 17 years old</p>
-<img src="https://i.pinimg.com/736x/1d/77/53/1d77535c2443d034a1380fdc8eb76ca4.jpg"
 </div>
 </div>
 </div>
