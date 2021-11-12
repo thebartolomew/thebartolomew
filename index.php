@@ -56,6 +56,7 @@ body{ background-image: url('background.jpg');
 </div>
 </div>
 <div class="console-emulating" style="color:white">
+    <h1>My social media</h1>
 <a href="https://vk.com/lunat1kgod" target="_blank" style="color:white">VK</a> |
 <a href="https://steamcommunity.com/id/lunat1kcs/" target="_blank" style="color:white">Steam</a> |
 <a href="https://www.faceit.com/ru/players/lunatikk_" target="_blank" style="color:white">Fc</a> |
