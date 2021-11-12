@@ -43,6 +43,10 @@ body{ background-image: url('background.jpg');
 .white{color: white}
 .welcome-text{font-size:1.75rem}
 .near-text{font-size:1rem}
+h1{
+width:"40px"
+height:"50px"
+    }
 .fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}  
 }
 </style>
