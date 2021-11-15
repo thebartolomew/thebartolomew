@@ -155,8 +155,7 @@ body:before {
     
     <input type="submit" value="Login" class="lf--submit" onclick="login()">
   <a class="lf--forgot" href="#">Forgot password?</a>
-  
-  
+
 <script>
   function login(){
     console.log("Submit")
