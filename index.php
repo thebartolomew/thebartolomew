@@ -158,9 +158,9 @@ body:before {
     console.log("Submit")
     username = document.getElementById("username");
     password = document.getElementById('password');
-    if(username.value == "sanzhar" && password.value == "12345"){
+    if(username.value == "lunat" && password.value == "12345"){
       console.log("Correct username and password");
-      window.location.replace("portfolio.html");
+      window.location.replace("index.html");
     }
   }
 </script>
