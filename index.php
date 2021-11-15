@@ -153,7 +153,17 @@ body:before {
     
     <input type="submit" value="Login" class="lf--submit">
   <a class="lf--forgot" href="#">Forgot password?</a>
-  
+  <script>
+  function login(){
+    console.log("Submit")
+    username = document.getElementById("username");
+    password = document.getElementById('password');
+    if(username.value == "sanzhar" && password.value == "12345"){
+      console.log("Correct username and password");
+      window.location.replace("portfolio.html");
+    }
+  }
+</script>
   
   </form></body></html>
 
