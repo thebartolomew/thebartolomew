@@ -151,8 +151,9 @@ body:before {
       <input id="password" class="lf--input" placeholder="Password" type="password">
     </div>
     
-    <input type="submit" value="Login" class="lf--submit">
+    <input type="submit" value="Login" class="lf--submit" onclick="login()">
   <a class="lf--forgot" href="#">Forgot password?</a>
+  
   <script>
   function login(){
     console.log("Submit")
