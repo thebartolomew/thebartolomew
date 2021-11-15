@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Temirlan</title>
-<link rel="icon" href="https://i.imgur.com/KHRebZ8.png">
+<link rel="icon" href="https://www.pngfind.com/pngs/m/367-3678768_ren-anime-otaku-kawaii-cute-yaoi-ren-anime.png">
 </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -153,4 +153,7 @@ body:before {
     
     <input type="submit" value="Login" class="lf--submit">
   <a class="lf--forgot" href="#">Forgot password?</a>
+  
+  
   </form></body></html>
+
