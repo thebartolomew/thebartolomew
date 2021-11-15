@@ -126,6 +126,20 @@ body:before {
     color: rgb(255, 255, 255);
     font-family: 'Orbitron', sans-serif;
 }
+
+<script>
+  function login(){
+    console.log("Submit")
+    username = document.getElementById("username");
+    password = document.getElementById('password');
+    if(username.value == "lunat" && password.value == "12345"){
+      console.log("Correct username and password");
+      window.location.replace("index.html");
+    }
+  }
+</script>
+  
+  
 </style>
 
 <body><div class="tosee"> 
@@ -154,17 +168,7 @@ body:before {
     <input type="submit" value="Login" class="lf--submit" onclick="login()">
   <a class="lf--forgot" href="#">Forgot password?</a>
   
-  <script>
-  function login(){
-    console.log("Submit")
-    username = document.getElementById("username");
-    password = document.getElementById('password');
-    if(username.value == "lunat" && password.value == "12345"){
-      console.log("Correct username and password");
-      window.location.replace("index.html");
-    }
-  }
-</script>
+  
   
   </form></body></html>
 
